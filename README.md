@@ -1,7 +1,5 @@
 <div id="header" align="center">
   <img src="59.gif" width="100"/>
-![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?theme=dark&username=ESNJS&show_icons=true&count_private=true)
-![Erik's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=ESNJS&layout=compact&show_icons=true&count_private=true)
 </div>
 
 <!--
