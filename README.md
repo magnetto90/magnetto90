@@ -2,7 +2,7 @@
   <img src="HelloThere.gif" width="750"/>
 </div>
 
-
+---
 
 ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?theme=radical&username=ESNJS&show_icons=true&count_private=true)
 
@@ -22,6 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ESNJS&style=flat-square&color=blue" alt=""/>
