@@ -26,7 +26,9 @@
 </div>
 
 ---
-
-<div id="header" align="center">
+<div align="center">
+  <img src="Magnetto.gif"/ >
+</div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ESNJS&style=flat-square&color=blue" alt=""/>
 </div>
