@@ -27,11 +27,5 @@
 
 ---
 <div align="center">
-  <img src="Magnetto.gif"/ >
-</div>
-<div align="center">
-  <img src="https://www.codewars.com/users/ESNJS/badges/large"/ >
-</div>
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ESNJS&style=flat-square&color=blue" alt=""/>
 </div>
