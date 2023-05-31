@@ -50,7 +50,7 @@
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2857?tab=overview"><strong>Secureum RACED 18 (62/215)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2541?tab=overview"><strong>Secureum RACED 17 (88/230)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2134?tab=overview"><strong>Secureum RACED 15</strong></a></li>
-  <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1833?tab=overview"><strong>Secureum RACED 13</strong></a></li>
+  <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1833?tab=overview"><strong>Secureum RACED 13 (21/99)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1664?tab=overview"><strong>Secureum RACED 11</strong></a></li>
 </ul>
 
