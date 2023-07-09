@@ -14,13 +14,10 @@
 <p>Some of the tools and technologies I frequently use include:</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-NuxtJS-05122A?style=flat&logo=nuxt.js" alt="NuxtJS" />
+  <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity" alt="Solidity" />
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js" alt="VueJS" />
   <img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity" alt="Solidity" />
-  <img src="https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum" alt="Ethereum" />
   <img src="https://img.shields.io/badge/-Aseprite-05122A?style=flat" alt="Aseprite" />
   <img src="https://img.shields.io/badge/-Foundry-05122A?style=flat" alt="Foundry" />
 </div>
