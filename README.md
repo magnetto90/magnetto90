@@ -9,7 +9,7 @@
   <h2>👨‍💻 My Stack and Experience</h2>
 </div>
 
-<p>I've been working in IT for over ten years and had the opportunity to collaborate with various companies such as Accenture, Red Link, Banelco, Globant, and Callisto Enterprise. My experience spans across quality control analysis for financial software and, more recently, developing decentralized apps and reviewing smart contracts in the blockchain space.</p>
+<p>I've been working in IT for over ten years and had the opportunity to collaborate with various companies. My experience spans across quality control analysis for financial software and, more recently, developing decentralized apps and reviewing smart contracts in the blockchain space.</p>
 
 <p>Some of the tools and technologies I frequently use include:</p>
 
@@ -41,7 +41,8 @@
 <p>I have participated in various competitions, earning POAPs and NFTs as a result of my achievements. Here are some of them:</p>
 
 <ul>
-  <li><a href="https://app.poap.xyz/token/5497285"><strong>Solidity Hacking Competition @ ETH LATAM - Buenos Aires 2022</strong></a></li>
+  <li><a href="https://github.com/transmissions11/solmate/pull/380"><strong>Error found in Solmate during Medusa workshop</strong></a></li>
+  <li><a href="https://app.poap.xyz/token/5497285"><strong>Solidity Hacking Competition @ ETH LATAM - Buenos Aires 2022 🥇</strong> </a></li>
   <li><a href="https://app.poap.xyz/token/5581181"><strong>Paradigm CTF 2022</strong> </a></li>
   <li><a href="https://app.poap.xyz/token/5553984"><strong>Secureum a-MAZE-X at DeFi Security 101</strong> </a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2857?tab=overview"><strong>Secureum RACED 18 (62/215)</strong></a></li>
