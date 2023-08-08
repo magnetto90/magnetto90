@@ -41,15 +41,20 @@
 <p>I have participated in various competitions, earning POAPs and NFTs as a result of my achievements. Here are some of them:</p>
 
 <ul>
-  <li><a href="https://github.com/transmissions11/solmate/pull/380"><strong>Error found in Solmate during Medusa workshop</strong></a></li>
   <li><a href="https://app.poap.xyz/token/5497285"><strong>Solidity Hacking Competition @ ETH LATAM - Buenos Aires 2022 🥇</strong> </a></li>
   <li><a href="https://app.poap.xyz/token/5581181"><strong>Paradigm CTF 2022</strong> </a></li>
   <li><a href="https://app.poap.xyz/token/5553984"><strong>Secureum a-MAZE-X at DeFi Security 101</strong> </a></li>
+  <li><a href=""><strong>Secureum RACED 20 (9/202)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2857?tab=overview"><strong>Secureum RACED 18 (62/215)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2541?tab=overview"><strong>Secureum RACED 17 (88/230)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2134?tab=overview"><strong>Secureum RACED 15</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1833?tab=overview"><strong>Secureum RACED 13 (21/99)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1664?tab=overview"><strong>Secureum RACED 11</strong></a></li>
+</ul>
+
+<p>Collaborations</p>
+<ul>
+  <li><a href="https://github.com/transmissions11/solmate/pull/380"><strong>Fix edge case in SignedWadMath</strong></a></li>
 </ul>
 
 ---
