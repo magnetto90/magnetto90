@@ -57,8 +57,3 @@
   <li><a href="https://github.com/transmissions11/solmate/pull/380"><strong>Fix edge case in SignedWadMath</strong></a></li>
 </ul>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ESNJS&style=flat-square&color=blue" alt="Profile views counter"/>
-</div>
