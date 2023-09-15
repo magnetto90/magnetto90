@@ -50,6 +50,7 @@
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2134?tab=overview"><strong>Secureum RACED 15</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1833?tab=overview"><strong>Secureum RACED 13 (21/99)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1664?tab=overview"><strong>Secureum RACED 11</strong></a></li>
+  <li><a href="https://x.com/CodeHawks/status/1702645812679893225?s=20"><strong>CodeHawks - Sparkn contest 🥈</strong></a></li>
 </ul>
 
 <p>Collaborations</p>
