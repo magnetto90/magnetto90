@@ -42,9 +42,9 @@
 
 <ul>
   <li><a href="https://app.poap.xyz/token/5497285"><strong>Solidity Hacking Competition @ ETH LATAM - Buenos Aires 2022 🥇</strong> </a></li>
-  <li><a href="https://app.poap.xyz/token/5581181"><strong>Paradigm CTF 2022</strong> </a></li>
-  <li><a href="https://app.poap.xyz/token/5553984"><strong>Secureum a-MAZE-X at DeFi Security 101</strong> </a></li>
-  <li><a href=""><strong>Secureum RACED 20 (9/202)</strong></a></li>
+  <li><a href="https://app.poap.xyz/token/5581181"><strong>Paradigm - CTF 2022</strong> </a></li>
+  <li><a href="https://app.poap.xyz/token/5553984"><strong>Secureum - a-MAZE-X at DeFi Security 101</strong> </a></li>
+  <li><a href=""><strong>Secureum - RACE 20 (9/202)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2857?tab=overview"><strong>Secureum - RACE 18 (62/215)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2541?tab=overview"><strong>Secureum - RACE 17 (88/230)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2134?tab=overview"><strong>Secureum - RACE 15</strong></a></li>
