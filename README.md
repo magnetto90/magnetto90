@@ -51,7 +51,7 @@
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2134?tab=overview"><strong>Secureum - RACE 15</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1833?tab=overview"><strong>Secureum - RACE 13 (21/99)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1664?tab=overview"><strong>Secureum - RACE 11</strong></a></li>
-  <li><a href="https://x.com/CodeHawks/status/1702645812679893225?s=20"><strong>CodeHawks - Sparkn contest 🥈</strong></a></li>
+  <li><a href="https://x.com/CodeHawks/status/1702645812679893225?s=20"><strong>CodeHawks - Sparkn contest 🥈</strong></a> <a href="https://github.com/romeroadrian/audits/tree/main/codehawks/2023-08-sparkn">(Report)</a>
 </ul>
 
 <p>Collaborations</p>
