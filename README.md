@@ -59,3 +59,8 @@
   <li><a href="https://github.com/transmissions11/solmate/pull/380"><strong>Fix edge case in SignedWadMath</strong></a></li>
 </ul>
 
+<p>Pixel Art</p>
+<ul>
+  <li><a href="https://github.com/webtresclub/buttplug-traits"><strong>Artwork for NFT project made with Huff</strong></a></li>
+</ul>
+
