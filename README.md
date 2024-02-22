@@ -62,5 +62,6 @@
 <p>Pixel Art</p>
 <ul>
   <li><a href="https://github.com/webtresclub/buttplug-traits"><strong>Artwork for NFT project made with Huff</strong></a></li>
+  <li><a href="https://github.com/magnetto90/pixel-art/blob/main/HackingMix.png"> Ekoparty 2023 Sticker </a></li>
 </ul>
 
