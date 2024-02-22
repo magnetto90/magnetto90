@@ -44,6 +44,8 @@
   <li><a href="https://app.poap.xyz/token/5497285"><strong>Solidity Hacking Competition @ ETH LATAM - Buenos Aires 2022 🥇</strong> </a></li>
   <li><a href="https://app.poap.xyz/token/5581181"><strong>Paradigm - CTF 2022</strong> </a></li>
   <li><a href="https://app.poap.xyz/token/5553984"><strong>Secureum - a-MAZE-X at DeFi Security 101</strong> </a></li>
+  <li><a href="https://www.ctfprotocol.com/tracks/eko2022"><strong>ONLYPWNER</strong></a></li>
+  <li><a href="https://onlypwner.xyz/leaderboard"><strong>Ekoparty 2022 - Blockchain CTF</strong> </a></li>
   <li><a href="https://discord.com/channels/814328279468474419/927065287172427798/1191778508125519902"><strong>Secureum - RACE 25 (19/146)</strong></a></li>
   <li><a href="https://discord.com/channels/814328279468474419/927065287172427798/1135404396696572096"><strong>Secureum - RACE 20 (9/202)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2857?tab=overview"><strong>Secureum - RACE 18 (62/215)</strong></a></li>
@@ -51,17 +53,17 @@
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2134?tab=overview"><strong>Secureum - RACE 15</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1833?tab=overview"><strong>Secureum - RACE 13 (21/99)</strong></a></li>
   <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1664?tab=overview"><strong>Secureum - RACE 11</strong></a></li>
-  <li><a href="https://x.com/CodeHawks/status/1702645812679893225?s=20"><strong>CodeHawks - Sparkn contest 🥈</strong></a> <a href="https://github.com/romeroadrian/audits/tree/main/codehawks/2023-08-sparkn">(Report)</a>
 </ul>
 
 <p>Collaborations</p>
 <ul>
   <li><a href="https://github.com/transmissions11/solmate/pull/380"><strong>Fix edge case in SignedWadMath</strong></a></li>
+  <li><a href="https://x.com/CodeHawks/status/1702645812679893225?s=20"><strong>CodeHawks - Sparkn contest 🥈</strong></a> <a href="https://github.com/romeroadrian/audits/tree/main/codehawks/2023-08-sparkn">(Report)</a>
 </ul>
 
 <p>Pixel Art</p>
 <ul>
   <li><a href="https://github.com/webtresclub/buttplug-traits"><strong>Artwork for NFT project made with Huff</strong></a></li>
-  <li><a href="https://github.com/magnetto90/pixel-art/blob/main/HackingMix.png"> Ekoparty 2023 Sticker </a></li>
+  <li><a href="https://github.com/magnetto90/pixel-art/blob/main/HackingMix.png"><strong>Ekoparty 2023 Sticker<strong></a></li>
 </ul>
 
