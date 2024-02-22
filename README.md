@@ -58,7 +58,9 @@
 <p>Collaborations</p>
 <ul>
   <li><a href="https://github.com/transmissions11/solmate/pull/380"><strong>Fix edge case in SignedWadMath</strong></a></li>
-  <li><a href="https://x.com/CodeHawks/status/1702645812679893225?s=20"><strong>CodeHawks - Sparkn contest 🥈</strong></a> <a href="https://github.com/romeroadrian/audits/tree/main/codehawks/2023-08-sparkn">(Report)</a>
+  <li><a href="https://x.com/CodeHawks/status/1702645812679893225?s=20"><strong>CodeHawks - Sparkn contest 🥈</strong></a> 
+    <a href="https://github.com/romeroadrian/audits/tree/main/codehawks/2023-08-sparkn">(Report)</a>
+    <a href="https://github.com/codefox-inc/sparkn-contracts/pulls?q=is%3Apr+is%3Aclosed+label%3Amitigation">(Mitigation)</a>
 </ul>
 
 <p>Pixel Art</p>
