@@ -67,5 +67,6 @@
 <ul>
   <li><a href="https://github.com/webtresclub/buttplug-traits"><strong>Artwork for NFT project made with Huff</strong></a></li>
   <li><a href="https://github.com/magnetto90/pixel-art/blob/main/HackingMix.png"><strong>Ekoparty 2023 Sticker<strong></a></li>
+  <li><a href="https://twitter.com/fedebianu/status/1774059518806147244"><strong>Secureum Vyper CTF POAPs<strong></a></li>
 </ul>
 
